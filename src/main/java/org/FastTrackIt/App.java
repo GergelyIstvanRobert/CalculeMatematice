@@ -23,6 +23,5 @@ public class App
         results = x/y;
         System.out.println("The result is " + results);
 
-
     }
 }
