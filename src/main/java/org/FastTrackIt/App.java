@@ -24,4 +24,8 @@ public class App
         System.out.println("The result is " + results);
 
     }
+    Numere sumVar = new Numere();
+    sumVar.sumVar
+
+
 }
