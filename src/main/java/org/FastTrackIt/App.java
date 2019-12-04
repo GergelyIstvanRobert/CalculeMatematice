@@ -13,13 +13,14 @@ public class App
         sumVar.sumVar(11,11);
 
         Numere multiply = new Numere();
-        sumVar.multiply(12,2);
+        sumVar.multiply(12.3,2.4);
 
         Numere division = new Numere();
         sumVar.division(333,3);
 
         Numere subtraction = new Numere();
         sumVar.subtraction(123,65);
+
 
 
 
